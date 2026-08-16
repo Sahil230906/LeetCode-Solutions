@@ -8,8 +8,8 @@
 Array, Divide and Conquer, Dynamic Programming, Queue, Monotonic Queue
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 7 ms
+- **Memory:** 51.2 MB
 
 ---
 
