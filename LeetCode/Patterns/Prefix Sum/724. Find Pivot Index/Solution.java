@@ -3,12 +3,12 @@ class Solution {
         int left = 0;
         int total = 0;
 
-        // Calculate total sum
+        
         for (int num : nums) {
             total += num;
         }
 
-        // Check every index
+
         for (int i = 0; i < nums.length; i++) {
             int right = total - left - nums[i];
 
