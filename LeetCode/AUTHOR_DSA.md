@@ -274,7 +274,7 @@ Track your progress on the Curated 100hrs DSA core interview preparation list.
 
 ### 📂 PART  1: LINKED LISTS Topics Covered: 1.
 - [ ] Middle of the Linked List
-- [x] [Reverse Linked List](./C++/Easy/206. Reverse Linked List/)
+- [x] [Reverse Linked List](./Java/Easy/206. Reverse Linked List/)
 - [ ] Linked List Cycle
 - [ ] Linked List Cycle II
 - [ ] Palindrome Linked List
